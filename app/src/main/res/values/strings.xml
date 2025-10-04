@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TSDMH_7S21_252_ZHKVP1P2</string>
+    <string name="p1titulo">Calculadora</string>
+
+    <string name="hlnumero1">aqui el primer numero</string>
+    <string name="hlnumero2">aqui el segundo numero</string>
+    <string name="blsumar"> suma numeros</string>
+    <string name="blrestar"> restar numeros</string>
+    <string name="blmultiplicar"> multiplicar numeros</string>
+    <string name="bldividir"> divide numeros</string>
+    <string name="blpotencia"> a la 2 numeros</string>
+    <string name="blpotenciaN"> a la N</string>
+    <string name="blraiz"> Raiz</string>
+
+
+    <string name="lresultado">resultado</string>
+</resources>
